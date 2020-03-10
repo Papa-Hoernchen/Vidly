@@ -9,6 +9,7 @@ using Vidly.ViewModels;
 
 namespace Vidly.Controllers
 {
+    //Test
     public class CustomerController : Controller
     {
         List<Customer> customers = new List<Customer>();
