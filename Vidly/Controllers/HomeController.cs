@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace Vidly.Controllers
 {
+    //Test2
     [AllowAnonymous]
     public class HomeController : Controller
     {
